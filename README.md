@@ -22,18 +22,23 @@ I also enjoy building projects, specifically AI projects as a hobby, so you'll f
 🌟 Featured Projects 🌟
 
 🎲 Lottery Game 
+
 An funny game built on Python to showcase my basic Python skills.
 
-📊 Calculating Exam Score
+📊 Exam Grading System
+
 An application created to calculate, statistic scores based on the files with suitable format.
 
 🚦 Traffic Sign Detection 
+
 A mixed project used Support Vector Machine and other CV techniques to detect different traffic signs.
 
 📈 Linear Regression Implementation 
+
 A project where I implemented Linear Regression on different scenarios.
 
 👥 K Nearest Neighbor Implementation 
+
 A project where I implemented K Nearest Neighbor on different scenarios.
 
 🛠️ Skills 
