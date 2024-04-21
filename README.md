@@ -32,7 +32,7 @@ An application created to calculate, statistic scores based on the files with su
 
 👾 **Alien Invasion** 
 
-A basic game created by Python which is similar to the legend game Alien Invasion.
+A basic game created by Python and Pygame library which is similar to the legend game Alien Invasion.
 
 🛠️ Skills 
 - Python programming
