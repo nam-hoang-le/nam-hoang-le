@@ -19,12 +19,15 @@ I also enjoy building projects, specifically AI projects as a hobby, so you'll f
 🌟 Featured Projects 🌟
 
 🛡️ **Proctoring Base** 
+
 A project where I applied CV techniques to develop features for an application preventing online cheating 🚫📚.
 
 🏋️‍♂️ **Tracking Barbell Exercises** 
+
 A project where I used the Data Science workflow to develop an algorithm to recognize and count repetitions of barbell exercises 📈💪.
 
 ⚙️ **Automate Things** 
+
 A project where I used Python libraries to automate daily tasks, making life a bit easier and more efficient 📆✨.
 
 🎲 **Lottery Game** 
