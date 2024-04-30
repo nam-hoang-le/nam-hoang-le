@@ -6,11 +6,7 @@ I also enjoy building projects, specifically AI projects as a hobby, so you'll f
 
 🔭 I’m currently working on enhancing my skills in Machine Learning and exploring the field of Deep Learning.
 
-🌱 I’m currently learning advanced topics in AI, including reinforcement learning and natural language processing.
-
 👯 I’m looking to collaborate on open-source AI projects. If you have any interesting ideas, feel free to reach out!
-
-🤔 I’m looking for help with understanding the intricacies of neural networks. Any resources or advice would be greatly appreciated!
 
 💬 Ask me about Python, Machine Learning, or any of my projects. I'm always happy to discuss and share knowledge!
 
@@ -21,6 +17,15 @@ I also enjoy building projects, specifically AI projects as a hobby, so you'll f
 ⚡ Fun fact: When I'm not coding, you can find me reading books or watching Youtube videos!
 
 🌟 Featured Projects 🌟
+
+🛡️ **Proctoring Base** 
+A project where I applied CV techniques to develop features for an application preventing online cheating 🚫📚.
+
+🏋️‍♂️ **Tracking Barbell Exercises** 
+A project where I used the Data Science workflow to develop an algorithm to recognize and count repetitions of barbell exercises 📈💪.
+
+⚙️ **Automate Things** 
+A project where I used Python libraries to automate daily tasks, making life a bit easier and more efficient 📆✨.
 
 🎲 **Lottery Game** 
 
